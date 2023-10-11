@@ -1,0 +1,6 @@
+.search_list{
+    padding: 10px 20px;
+}
+.search_list:hover{
+    background-color: #efefef;
+}
